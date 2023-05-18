@@ -1,0 +1,15 @@
+O projeto consiste na análise exploratória da base de dados de avaliação de cervejas. Cada linha da base de dados representa uma avaliação de uma determinada cerveja de uma determinada cervejaria. As colunas da base de dados são:
+
+brewery_id - código da cervejaria ( não é necessario)
+brewery_name - nome da cervejaria
+review_time - data e hora da avaliação (em tics)( não é necessario)
+review_overall - nota geral
+review_aroma - nota do aroma
+review_appearance - nota da aparência
+review_profilename - nickname do avaliador
+beer_style - estilo de cerveja
+review_palate - nota do palato
+review_taste - nota do sabor
+beer_name - nome da cerveja
+beer_abv - teor alcoólico da cerveja
+beer_beerid - código da cerveja ( não é necessario)
